@@ -4,8 +4,8 @@ Data Structures and Algorithms (DSA) Assignments
 Contains:
 <br><br>
 <ul>
-    LinkedList 
-    Stacks 
+    LinkedList <br>
+    Stacks <br>
     Queues 
 </ul>
 <br>
