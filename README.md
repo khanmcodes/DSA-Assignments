@@ -1,2 +1,10 @@
 # DSA-Assignments
-Data Structures and Algorithms (DSA) Assignments (LinkedList, Stacks, Queues) In JAVA
+Data Structures and Algorithms (DSA) Assignments
+<br>
+Contains:
+<br>
+    LinkedList <br>
+    Stacks <br>
+    Queues <br>
+    <br>
+In JAVA
