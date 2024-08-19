@@ -2,7 +2,7 @@
 Data Structures and Algorithms (DSA) Assignments
 <br><br>
 Contains:
-<br><br>
+<br>
 <ul>
     LinkedList <br>
     Stacks <br>
